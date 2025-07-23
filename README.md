@@ -1,4 +1,4 @@
-## TL;DR — AI Hydroponics GitHub README
+AI Hydroponics
 
 - **Project:** Applies machine learning to images of hydroponic plant growth to predict and analyze plant development.
 - **Data:** Large, nested image datasets (grouped by day/stage) hosted on Google Drive, not in the repo itself.
