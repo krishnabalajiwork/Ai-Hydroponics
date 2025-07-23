@@ -1,17 +1,27 @@
-AI Hydroponics
+# AI Hydroponics Project
 
-- **Project:** Applies machine learning to images of hydroponic plant growth to predict and analyze plant development.
-- **Data:** Large, nested image datasets (grouped by day/stage) hosted on Google Drive, not in the repo itself.
-- **Access:**  
-  - [Download dataset from Google Drive](https://drive.google.com/drive/u/0/folders/1xqz33deKlVVbhDw3LeHWIKxfVsRQU8C4)  
-  - Keep folder organization after downloading for code to work.
-- **Code:**  
-  - Jupyter/Colab notebooks for Linear Regression and Random Forest Regression.
-  - Located in `/Linear Regression/` and `/RandomForestRegressor/` folders.
-- **How to use:**  
-  - Clone the repo.
-  - Download and extract the dataset.
-  - Run analysis notebooks for predictions and model evaluation.
+This repository documents machine learning experiments on hydroponic plant growth using numeric features such as pH, plant age, and related metrics. While a rich image dataset from actual hydroponics experiments is linked for documentation and future use, **the current analysis relies on tabular (numeric) data only**.
 
-**Summary:**  
-All code is here; all large images are external. Download the dataset, follow the workflow in the notebooks, and you can predict/visualize hydroponic plant growth using AI models.
+---
+
+## 📖 Project Overview
+
+- **Goal:** Predict and analyze plant growth in hydroponic systems using AI/ML models.
+- **Data:** Numeric measurements (pH, plant age, etc.) collected from hands-on hydroponics experiments.
+- **Code:** Notebooks for Linear Regression and Random Forest Regression modeling.
+- **Images:** Full experimental image datasets are provided separately as proof of experiment and for future computer vision applications.
+
+---
+
+## 📂 Dataset Access & Structure
+
+**Numeric Data:**  
+- Used directly in modeling (in CSV or similar tabular format).
+- Features include: plant age, pH measurements, growth rates, etc.
+
+**Images (Documentation/Proof Only):**  
+- Large, nested image datasets grouped by days/stages (not used in current code).
+- Hosted externally due to size limits and for transparency of real-world work.
+
+**Access all original datasets here:**  
+[Download the complete dataset from Google Drive](https://drive.google.com/drive/u/0/folders/1xqz33deKlVVbhDw3LeHWIKxfVsRQU8C4)
