@@ -2,7 +2,7 @@
 
 This repository documents machine learning experiments on hydroponic plant growth using numeric features such as pH, plant age, and related metrics. While a rich image dataset from actual hydroponics experiments is linked for documentation and future use, **the current analysis relies on tabular (numeric) data only**.
 
----
+--- 
 
 ## 📖 Project Overview
 
